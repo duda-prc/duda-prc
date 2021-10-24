@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @duda-prc
 - 👩‍💻 Engineer, excited with learning new things!
-- 📫 eduarda.prc@gmail.com
+- 📫 <a href="mailto:eduarda.prc@gmail.com" target="_blank"> E-mail </a>
 
