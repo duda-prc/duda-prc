@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 </div>
 
-- 👋 Hi, I’m <strong>@duda-prc</strong>!
+- 👋 Hi, I’m <strong><a href="https://duda-prc.github.io/profile/">@duda-prc</a></strong>!
 - 👩‍💻 Engineer, excited with learning new things, currently on the Le Wagon web development bootcamp!
 - 📫 <a href="mailto:eduarda.prc@gmail.com" target="_blank"> E-mail </a>
 
