@@ -3,7 +3,8 @@
 </div>
 
 - 👋 Hi, I’m <strong><a href="https://duda-prc.github.io/profile/">@duda-prc</a></strong>!
-- 👩‍💻 Engineer, excited with learning new things, currently on the Le Wagon web development bootcamp!
+- 👩‍💻 Engineer, excited with learning new things
+- ⌨️ Web Dev graduated from <a href='https://www.lewagon.com/' target='_blank'>Le Wagon's Coding Bootcamp</a>
 - 📫 <a href="mailto:eduarda.prc@gmail.com" target="_blank"> E-mail </a>
 
 <div id="badges">
