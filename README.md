@@ -29,4 +29,4 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=duda-prc)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=duda-prc&theme=bear)](https://git.io/streak-stats)
