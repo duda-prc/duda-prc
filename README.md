@@ -29,4 +29,4 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=duda-prc&theme=tokyonight_duo&hide_border=true&dates=FFFFFF&ring=8A2BE2&sideLabels=A5A5A2)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=duda-prc)](https://git.io/streak-stats)
